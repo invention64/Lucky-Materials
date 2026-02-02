@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Lucky Block (Machines)",
+    "PrimaryInput": "Gold",
+    "Inputs": {
+      "Gold": 1,
+      "Bronze": 2
+    },
+    "Outputs": {
+      "Bits of Lucky Block (Machines)": 1
+    },
+    "Catalysts": {},
+    "Electrolysis": false,
+    "Temperature": null,
+    "MaxTemperature": null,
+    "ChangeInTemperature": 0,
+    "Probability": 0
+  }
+]
